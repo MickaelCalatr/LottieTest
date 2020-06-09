@@ -1,0 +1,38 @@
+Test ID
+8
+
+Screen size
+1080 × 2280
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+440
+
+Model Name
+Pixel 4
+
+RAM Memory
+6144 Mo
+
+Brand
+Google
+
+OpenGL ES Version 
+3.2
+
+Android Version 
+Android 10
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale 
+en_US
+
+Processor brand
+Qualcomm
+
+Processor model
+SDM855

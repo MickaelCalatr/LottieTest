@@ -1,0 +1,37 @@
+Test ID 1
+
+Screen size
+1080 × 1920
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+480
+
+Model Name
+Mate 9
+
+RAM memory
+4096 Mo
+
+Brand
+Huawei
+
+OpenGL ES Version 
+3.2
+
+Android Version 
+Android 7.0
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale
+en_US
+
+Processor brand
+HiSilicon
+
+Processor model
+KIRIN960

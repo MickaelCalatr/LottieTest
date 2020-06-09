@@ -1,0 +1,38 @@
+Test ID
+7
+
+Screen size
+1080 × 2160
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+440
+
+Model Name
+Pixel 3
+
+RAM Memory
+4096 Mo
+
+Brand
+Google
+
+OpenGL ES Version 
+3.2
+
+Android Version 
+Android 9
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale 
+en_US
+
+Processor brand
+Qualcomm
+
+Processor model
+SDM845

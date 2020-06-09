@@ -1,0 +1,38 @@
+Test ID
+4
+
+Screen size
+720 × 1280
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+320
+
+Model Name
+Xperia XZ1 Compact
+
+RAM Memory
+4096 Mo
+
+Brand
+Sony
+
+OpenGL ES Version 
+3.2
+
+Android Version 
+Android 8.0
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale 
+en_US
+
+Processor brand
+Qualcomm
+
+Processor model
+MSM8998

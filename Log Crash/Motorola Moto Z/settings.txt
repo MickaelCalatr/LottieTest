@@ -1,0 +1,38 @@
+Test ID
+2
+
+Screen size
+1440 × 2560
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+640
+
+Model Name
+Moto Z
+
+RAM Memory
+3072 Mo
+
+Brand
+Motorola
+
+OpenGL ES Version 
+3.2
+
+Android Version 
+Android 7.0
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale 
+en_US
+
+Processor brand
+Qualcomm
+
+Processor model
+MSM8996

@@ -1,0 +1,38 @@
+Test ID
+3
+
+Screen size
+1080 × 2220
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+480
+
+Model Name
+Galaxy S9
+
+RAM Memory
+4096 Mo
+
+Brand
+Samsung
+
+OpenGL ES Version 
+3.2
+
+Android Version 
+Android 8.0
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale 
+en_US
+
+Processor brand
+Qualcomm
+
+Processor model
+SDM845

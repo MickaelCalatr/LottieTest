@@ -1,0 +1,38 @@
+Test ID
+6
+
+Screen size
+480 × 854
+
+Test duration
+300 secondes
+
+Screen density (ppp)
+240
+
+Model Name
+Nokia 1
+
+RAM Memory
+1024 Mo
+
+Brand
+Nokia
+
+OpenGL ES Version 
+3.1
+
+Android Version 
+Android 8.1 (Go edition)
+
+Nativ Platforme 
+armeabi-v7a
+
+Locale 
+en_US
+
+Processor brand
+Mediatek
+
+Processor model
+MT6737M
